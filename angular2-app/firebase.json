@@ -1,11 +1,5 @@
 {
   "hosting": {
-    "public": "y",
-    "rewrites": [
-      {
-        "source": "**",
-        "destination": "/index.html"
-      }
-    ]
+    "public": "dist"
   }
 }
